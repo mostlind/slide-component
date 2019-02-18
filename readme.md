@@ -1,4 +1,4 @@
-# A commponent to implement a slide animation
+# A component to implement a slide animation
 
 ```javascript
 <Collapsible
